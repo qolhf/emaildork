@@ -1,0 +1,4 @@
+googlesearch
+requests
+random
+colorama
